@@ -2,12 +2,15 @@
 
 ## Citations
 ```
-@article{han2025mhwt,
-  title={MHWT: Wide-range attention modeling using window transformer for multi-modal MRI reconstruction},
-  author={Han, Qiuyi and Du, Hongwei},
-  journal={Magnetic Resonance Imaging},
-  pages={110362},
-  year={2025}
+@article{HAN2025110362,
+title = {MHWT: Wide-range attention modeling using window transformer for multi-modal MRI reconstruction},
+author = {Qiuyi Han and Hongwei Du},
+journal = {Magnetic Resonance Imaging},
+volume = {118},
+pages = {110362},
+year = {2025},
+doi = {https://doi.org/10.1016/j.mri.2025.110362},
+url = {https://www.sciencedirect.com/science/article/pii/S0730725X25000463}
 }
 ```
 ## Acknowledgement
